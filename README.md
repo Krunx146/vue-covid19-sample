@@ -1,6 +1,7 @@
-# covid19
+# Covid19 statistics
 
 > Demonstration SPA project built with Vue.js framework.
+> Applications uses https://api.covid19api.com/ to fetch required data.
 
 ## Build Setup
 
